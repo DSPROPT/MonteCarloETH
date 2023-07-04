@@ -1,3 +1,5 @@
+![image](https://github.com/Geek4ManiacsPT/MonteCarloETH/assets/123905090/b5f6f5e8-0f50-4824-95a2-b3bc94e9ef2a)
+
 # Simulación de Monte Carlo para el precio de Ethereum
 
 Este repositorio contiene un Jupyter notebook que utiliza la simulación de Monte Carlo para prever los posibles precios futuros de Ethereum.
