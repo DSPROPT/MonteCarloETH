@@ -21,7 +21,7 @@ Puedes instalar Jupyter y estas bibliotecas con pip:
 
 ```bash
 pip install notebook yfinance numpy matplotlib scipy
-
+```
 
 Una vez que tengas Jupyter y las bibliotecas necesarias instaladas, puedes clonar este repositorio y abrir el notebook `MonteCarloETH.ipynb` en Jupyter.
 
