@@ -22,3 +22,19 @@ Puedes instalar Jupyter y estas bibliotecas con pip:
 ```bash
 pip install notebook yfinance numpy matplotlib scipy
 
+
+Una vez que tengas Jupyter y las bibliotecas necesarias instaladas, puedes clonar este repositorio y abrir el notebook `MonteCarloETH.ipynb` en Jupyter.
+
+## 🚀 Guía Paso a Paso del Código
+
+1. **Importación de bibliotecas:** Importamos las bibliotecas necesarias de Python.
+2. **Descarga de datos:** Utilizamos `yfinance` para descargar los datos históricos de los precios de Ethereum de los últimos 5 años.
+3. **Cálculo de rendimientos:** Calculamos los rendimientos logarítmicos diarios a partir de los datos de precios.
+4. **Simulación de Monte Carlo:** Utilizamos los rendimientos logarítmicos diarios para generar miles de trayectorias aleatorias del precio de Ethereum para el próximo año.
+5. **Visualización:** Creamos gráficos para visualizar las trayectorias simuladas de los precios de Ethereum, así como la distribución final de los posibles precios.
+
+## ⚠️ Advertencia
+
+Este notebook está destinado a ser una demostración de cómo utilizar la simulación de Monte Carlo en finanzas y no debe ser utilizado para tomar decisiones de inversión reales. Siempre debes realizar tu propia investigación y/o buscar el consejo de un asesor financiero profesional antes de invertir en criptomonedas u otros instrumentos financieros.
+
+
